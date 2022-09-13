@@ -1,5 +1,5 @@
-## Narcisist-Numbers
-algorithm to find narcisist numbers in Python!
+## Narcisstic Numbers
+algorithm to find narcissistic numbers in Python!
 
 ### Narcisist Numbers Logic
 Get a number, for example 1634, get its digits and sum them by its power of the length of the number
@@ -20,7 +20,7 @@ for x in str(number):
 ```
 
 My code uses the algorithm but it finds the current number in a range of value.
-So in range 100 to 13000, we have the following narcisist numbers:
+So in range 100 to 13000, we have the following narcissistic numbers:
 ```
 153
 370
